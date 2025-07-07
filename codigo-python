@@ -7,7 +7,7 @@ lista_livro = []
 #Variável global para controlar o ID de cada livro
 id_global = 0
 
-#Função que cadaasatrará um novo livro
+#Função que cadastrará um novo livro
 def cadastrar_livro(id):
     print('-' * 50)
     print("-" * 14 + " MENU CADASTRAR LIVRO " + "-" * 14)
